@@ -10,4 +10,4 @@ Welcome to our repository! Here you can access our prototypes, view promotional 
 ## Design Documentation
 Click the link below (or the Wiki tab at the top) to view our full design process.
 
-[Design Documentation Wiki (Github)](https://github.com/dilsp-j/DECO3500-33G7/wiki)
+[Design Documentation (Wiki)](https://github.com/dilsp-j/DECO3500-33G7/wiki)
