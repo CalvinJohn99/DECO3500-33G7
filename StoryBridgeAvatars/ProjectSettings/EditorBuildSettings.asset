@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AR Camera.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/RewardStore.unity
+    guid: 7b8397b4e36708d4c89b05a7d8748b64
+  - enabled: 1
+    path: Assets/Scenes/RewardStore_bought.unity
+    guid: b2e9fbcd40155f943b2a368b6a2b2b67
+  - enabled: 1
+    path: Assets/Scenes/PurpleFace.unity
+    guid: e26fb3b40e1d8e84091c486f9cd9ef6e
+  - enabled: 1
+    path: Assets/Scenes/AR Camera_unlocked.unity
+    guid: b1e22ca9f4f59fc49b740035bc4377f2
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f6ccc5a0e4ac3eb43a1ffce0d45c784b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 15186c1c8b659eb4b855f2435351e072, type: 2}
