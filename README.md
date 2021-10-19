@@ -2,7 +2,23 @@
 Welcome to our repository! Here you can access our prototypes, view promotional material, and access the documentation of our design process.
 
 ## Prototypes
--LINKS HERE-
+**StoryBridge Website**
+
+The source files for our website prototype can be found under the StoryBridgeWebsite folder on this repository.
+
+To access our website online, you can follow the below link to the live version.
+
+-LINK HERE-
+
+**StoryBridge AR Avatars Unity Project**
+
+The source files for this Unity prototype can be found under the StoryBridgeAvatars folder on this repository.
+
+This prototype specifically allows you to test AR Avatar face-tracking, something not possible in our website prototype.
+
+Please follow the link below to ensure that the project runs correctly on your Android device.
+
+[AR Avatars Prototype Instructions (Wiki)](https://github.com/dilsp-j/DECO3500-33G7/wiki/AR-Avatars-Prototype)
 
 ## Promotional Material
 -LINKS HERE-
