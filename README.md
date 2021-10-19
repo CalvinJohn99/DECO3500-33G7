@@ -1,5 +1,11 @@
 # DECO3500 Team 3+3=G7 Repository
-Welcome to our repository! Here you can access our prototypes, view promotional material, and access the documentation of our design process.
+
+![StudyBridgeLogo](https://github.com/dilsp-j/DECO3500-33G7/blob/main/WikiContent/StudyBridgeLogo.png)
+
+Welcome to our repository! Here you can access our prototypes for StudyBridge, view promotional material, and access the documentation of our design process.
+
+## Promotional Material
+-LINKS HERE-
 
 ## Prototypes
 **StoryBridge Website**
@@ -19,9 +25,6 @@ This prototype specifically allows you to test AR Avatar face-tracking, somethin
 Please follow the link below to ensure that the project runs correctly on your Android device.
 
 [AR Avatars Prototype Instructions (Wiki)](https://github.com/dilsp-j/DECO3500-33G7/wiki/AR-Avatars-Prototype)
-
-## Promotional Material
--LINKS HERE-
 
 ## Design Documentation
 Click the link below (or the Wiki tab at the top) to view our full design process.
