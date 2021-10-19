@@ -8,7 +8,7 @@ The source files for our website prototype can be found under the StoryBridgeWeb
 
 To access our website online, you can follow the below link to the live version.
 
--LINK HERE-
+[Hosted StoryBridge Prototype Website (Github Pages)](https://calvinjohn99.github.io/Study-Bridge/)
 
 **StoryBridge AR Avatars Unity Project**
 
