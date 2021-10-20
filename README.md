@@ -7,6 +7,10 @@ Welcome to our repository! Here you can access our prototypes for StudyBridge, v
 ## Promotional Material
 -LINKS HERE-
 
+If you want to see more, you can also check out our prototype walkthrough video at the link below.
+
+[Prototype Demonstration (YouTube)](https://youtu.be/iXO9HKy_G5c)
+
 ## Prototypes
 **StoryBridge Website**
 
