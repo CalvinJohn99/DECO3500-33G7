@@ -5,7 +5,12 @@
 Welcome to our repository! Here you can access our prototypes for StudyBridge, view promotional material, and access the documentation of our design process.
 
 ## Promotional Material
--LINKS HERE-
+
+StudyBridge is a solution for online education which aims to improve student motivation and engagement.
+
+To learn more about our concept, you can check out our poster at the link below.
+
+[A2 StudyBridge Poster (Google Drive)](https://drive.google.com/file/d/1sl8dyzPj-Fsx8qgk18Mo74VHqCK7_0wO/view)
 
 If you want to see more, you can also check out our prototype walkthrough video at the link below.
 
