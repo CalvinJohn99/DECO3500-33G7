@@ -36,6 +36,10 @@ Please follow the link below to ensure that the project runs correctly on your A
 [AR Avatars Prototype Instructions (Wiki)](https://github.com/dilsp-j/DECO3500-33G7/wiki/AR-Avatars-Prototype)
 
 ## Design Documentation
-Click the link below (or the Wiki tab at the top) to view our full design process.
+Our design process and progress has been documented using Github's built-in Wiki feature.
 
-[Design Documentation (Wiki)](https://github.com/dilsp-j/DECO3500-33G7/wiki)
+[Design Documentation Home (Wiki):](https://github.com/dilsp-j/DECO3500-33G7/wiki) Find out about our team and our stand-up feedback.
+
+[Problem Space & Design Opportunity (Wiki):](https://github.com/dilsp-j/DECO3500-33G7/wiki/1.-Problem-Space-&-Design-Opportunity) See how we explored our problem space to identify potential design opportunities.
+
+[Design Process Overview (Wiki):](https://github.com/dilsp-j/DECO3500-33G7/wiki/2.-Design-Process-Overview) See how we structured each stage of our design process throughout hte semester.
